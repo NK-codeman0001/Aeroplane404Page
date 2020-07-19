@@ -15,7 +15,6 @@
 .sky
 {
 	position: relative;
-	widows: 100% ;
 	height: 60vh ;
 	display: flex ;
 	justify-content:center;
